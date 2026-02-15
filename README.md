@@ -10,7 +10,7 @@ Employee Management Simple CRUD PHP Application. Simple crud application using P
 - core PHP
 # Database:
 - MySQL
-
+  
 ![home](https://github.com/mdtalalwasim/PHP-MySQL-CRUD-Operation-Employee-Management-CRUD/assets/91146041/7b9187bc-c32b-4d5b-9b45-c9ab34ed8d2c)   
 
 
