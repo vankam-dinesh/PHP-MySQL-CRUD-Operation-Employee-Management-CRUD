@@ -3,7 +3,7 @@ Employee Management Simple CRUD PHP Application. Simple crud application using P
 
 # FrontEnd:
 - HTML
-- CSS
+- CSS                                             
 - Bootstrap
 - JS         
 # BackEnd:   
